@@ -20,11 +20,15 @@ class RecipeViewController2: UIViewController {
         // f6
         
         // f#5
+        
+        // f7
     }
 
     @IBOutlet weak var nutritionTable: UITableView!
     
     //f#6
+    
+    //f8
     
 }
 

@@ -17,10 +17,14 @@ class RecipeViewController2: UIViewController {
         // completeion of feauture #2
         // feature #3
         
+        // f6
+        
         // f#5
     }
 
     @IBOutlet weak var nutritionTable: UITableView!
+    
+    //f#6
     
 }
 

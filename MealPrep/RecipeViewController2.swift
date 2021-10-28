@@ -13,6 +13,9 @@ class RecipeViewController2: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
+        // here is feature #2 incomplete
+        // completeion of feauture #2
+        // feature #3
     }
 
     @IBOutlet weak var nutritionTable: UITableView!

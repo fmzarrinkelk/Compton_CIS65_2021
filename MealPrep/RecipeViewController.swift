@@ -13,8 +13,6 @@ class RecipeViewController: UIViewController {
         super.viewDidLoad()
      
     }
-    //feature1
-    //feature2
 
 }
 
